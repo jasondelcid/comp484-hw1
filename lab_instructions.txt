@@ -29,7 +29,7 @@ For this challenge you’ll be planning and implementing a formatting strategy f
 	     d.	In the definition for Elements, wrap the word "tags" in quotes using a left and right quote special character.
 			
 6.	Inserting Images
-	     a.	Applies to: index.htmll
+	     a.	Applies to: index.html
 	     b.	Examine the existing image at the top of the page. Note the class “flowRight” which is used by CSS to control styling. You’ll learn more about this in the chapter on CSS.
 	     c.	Scroll down until you locate the paragraph “Shortly After the 1.0 specification…” At the beginning of that paragraph insert an image that:
                   i.	points to the 200px-W3C_icon.png in the images directory
